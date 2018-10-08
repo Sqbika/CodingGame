@@ -1,0 +1,1 @@
+# CodingGame/nTraining for work
